@@ -323,6 +323,7 @@ DOMAIN-SUFFIX,pornhubpremium.com
 
 # Qobuz
 DOMAIN-SUFFIX,qobuz.com
+DOMAIN-KEYWORD,qobuz
 
 # SoundCloud
 USER-AGENT,SoundCloud*
